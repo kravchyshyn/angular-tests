@@ -1,6 +1,6 @@
 import {compute} from './compute';
 
-describe('', () => {
+describe('compute', () => {
 
     it('should return 0 if negative', () => {
         const result = compute(-1)
